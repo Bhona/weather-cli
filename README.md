@@ -1,2 +1,1 @@
-# weather-cli
-Weather CLI app
+# weather-cli Node.js Command Line Application Example

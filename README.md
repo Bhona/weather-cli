@@ -15,6 +15,6 @@ To successfully run this project you will need to:
 
 After installing the CLI app globally, you will have one command you can use: `weather`.
 
-Usage example: `weather -c Tela`
+Usage example: `weather -c Miami`
 
 Enjoy!
